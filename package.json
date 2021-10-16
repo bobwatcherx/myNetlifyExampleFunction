@@ -10,7 +10,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build":"netlify-lambda build functions",
-    "serve":"netlify-lambda serve functions"
+    "start":"netlify-lambda serve functions"
  
   },
   "keywords": [],
